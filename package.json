@@ -1,0 +1,20 @@
+{
+  "name": "typescript-chain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reignkk1/Typescript-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reignkk1/Typescript-chain/issues"
+  },
+  "homepage": "https://github.com/reignkk1/Typescript-chain#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
